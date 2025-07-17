@@ -15,7 +15,7 @@
     background-image: url(../img/img3.jpg);
     background-size: cover;
     background-position: center;
-    height: 1200px;
+    height: 980px;
 }
 .color-h2{
     color: #ffffff;
@@ -27,4 +27,43 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.icono{
+    font-size: 30px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: left;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.text-icono{
+    font-size: 15px;
+    color: #000000;
+    margin-left: 300px;
+    text-align: left;
+}
+.icono-2{
+    font-size: 30px;
+    color: #000000;
+    margin-top: 20px;
+    margin-left: 650px;
+}
+.text-icono-2{
+    font-size: 15px;
+    color: #000000;
+    margin-left: 280px;
+    text-align: left;
+}
+.back-footer{
+    background-image: url(../img/rayas.png);
+    background-size: cover;
+    background-position: center;
+    height: 35px;
+}
+.contorno{
+    text-shadow: 
+    -1px -1px 0 white,  /* Sombra izquierda superior */
+     1px -1px 0 white,  /* Sombra derecha superior */
+    -1px  1px 0 white,  /* Sombra izquierda inferior */
+     1px  1px 0 white;  /* Sombra derecha inferior */
 }
