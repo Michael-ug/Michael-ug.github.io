@@ -28,9 +28,24 @@
     justify-content: center;
     align-items: center;
 }
-.icono{
+.iconos{
+    
+    padding: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    color:rgb(255, 0, 0);
+    opacity: 1;
+}
+.texto-iconos p {
+    text-align: justify;
+    
+}
+/* .icono{
     font-size: 30px;
     color: #ff0000;
+    display: flex;
     margin-bottom: 20px;
     text-align: left;
     margin-left: 450px;
@@ -45,6 +60,7 @@
 .icono-2{
     font-size: 30px;
     color: #ff0000;
+    display: flex;
     margin-top: 20px;
     margin-left: 650px;
 }
@@ -53,7 +69,7 @@
     color: #000000;
     margin-left: 280px;
     text-align: left;
-}
+} */
 .emoji{
     font-size: 30px;
     color: #ff0000;
