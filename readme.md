@@ -7,3 +7,5 @@ Forks
     ·Cabios de color en los background utilizando "bg-warning-subtle y bg-primary-subtle" dadole una vision diferente.
     ·Centre el texto "portafolio" ya que estaba hacia la izquierda de la pantalla
     ·Justifique el contenido de las cards
+
+¡¡Las Capturas de pantalla con los cambio visibles estan en la carpeta img!!
