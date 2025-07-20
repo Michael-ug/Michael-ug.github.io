@@ -15,7 +15,13 @@
     background-image: url(../img/img3.jpg);
     background-size: cover;
     background-position: center;
-    height: 980px;
+    height: 500px;
+}
+.img-portafolio{
+    background-image: url(../img/imgcodigos.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
 }
 .color-h2{
     color: #ffffff;
@@ -42,34 +48,7 @@
     text-align: justify;
     
 }
-/* .icono{
-    font-size: 30px;
-    color: #ff0000;
-    display: flex;
-    margin-bottom: 20px;
-    text-align: left;
-    margin-left: 450px;
-    margin-top: 20px;
-}
-.text-icono{
-    font-size: 15px;
-    color: #000000;
-    margin-left: 300px;
-    text-align: left;
-}
-.icono-2{
-    font-size: 30px;
-    color: #ff0000;
-    display: flex;
-    margin-top: 20px;
-    margin-left: 650px;
-}
-.text-icono-2{
-    font-size: 15px;
-    color: #000000;
-    margin-left: 280px;
-    text-align: left;
-} */
+
 .emoji{
     font-size: 30px;
     color: #ff0000;

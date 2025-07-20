@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text-color{
+    color: #FFFFFF;
+}
+.border-color{
+    border-color: #FFFFFF;
+}
+.card{
+    font-family: 'roboto', sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+.secondary-text{
+    color: #707070;
+    font-size: 17px;
+}
+.location{
+    color: #707070;
+    font-size: 14px;
+}
+.fas{
+    font-size: 12px;
+}
+.price{ 
+    
+    color: #707070;
+    font-size: 17px;
+}
+.price-2{
+    color: #28A745;
+    font-size: 23px;
+    font-weight: 600;
+}
+.personal-data{
+    color: #FFFFFF;
+    font-family: 'roboto', sans-serif;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.form-floating{
+    color: #707070;
+}
+.footer-content{
+    background-color:#FFFFFF;
+    font-family: 'roboto', sans-serif;
+    padding: 40px;
+    text-align: center;
+}
+.footer-text{
+    color: #707070;
+    font-size: 16px;
+}

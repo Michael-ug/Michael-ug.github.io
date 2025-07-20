@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    left: 150px;
+}
+body{
+    font-family: 'Raleway, light', sans-serif;
+    color: white;
+
+    background-color: black;
+}
+header {
+    background-color:black;
+    padding: 0%;
+    text-align: center;
+}
+header h1 {
+    font: normal medium 50px/59px 'Raleway, light', sans-serif;
+    color: white;
+    font-size: 2.5em;
+    margin: 0;
+}
+.imagen-principal {
+   background-color: black;
+   justify-content: center;
+   width: 100%;
+}
+.descripcion {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 70px 20px;
+}
+.descripcion p{
+    top: 876px;
+    left: 100px;
+    width:475px;
+    height: 197px;
+    padding: 20px 10px;
+    justify-content: flex-start;
+    font: normal normal 300 16px/19px 'Raleway, light', sans-serif;
+    letter-spacing: 0px;
+    color: white;
+    opacity: 1;
+}
+    
+.descripcion img{
+    position: absolute;
+    top: 845px;
+    left: 731px;
+    width: 399px;
+    height: 237px;
+    border-radius: 10px;
+}
+.Caracteristicas {
+    background-color: #1E1A13;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.Caracteristicas h2 {
+    text-align: center;
+    background-color: #1E1A13;
+    font: normal normal 500 30px/36px 'Raleway, light', sans-serif;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.iconos{
+    background-color: #1E1A13;
+    padding: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    color:white;
+    opacity: 1;
+}
+.iconos div{
+    background-color: #1E1A13;
+}
+.iconos i {
+    background-color: #1E1A13;
+}
+.iconos p {
+    background-color: #1E1A13;
+}
+.galeria{
+    width: 100%;
+    padding: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.galeria div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+.galeria img {
+    width: 70%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fuente p{
+    background-color:#1E1A13;
+    padding: 20px;
+    text-align: center;
+}
+.fuente p a {
+    color: white;
+    text-decoration: none;
+    background-color: #1E1A13;
+}
+.fuente p a:hover {
+    color: goldenrod;
+    text-decoration: underline;
+}
